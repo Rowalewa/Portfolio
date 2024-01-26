@@ -1,0 +1,246 @@
+.navbar:hover{
+    background-color: skyblue;
+}
+.navbar ul li{
+    display: inline-block;
+    padding-left: 40px;
+    padding-top: 0;
+    text-decoration: none;
+    text-align: center;
+}
+.navbar{
+    width: 100%;
+    background-color: mediumpurple;
+}
+.navbar h1{
+    display: inline-block;
+    color: blue;
+}
+header h1 {
+    text-align: left;
+    text-decoration-color: blue;
+}
+header{
+     display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    text-align: center;
+}
+.navbar ul{
+    padding-left: 270px;
+}
+.head h1{
+    text-decoration: double underline;
+    text-align: center;
+}
+.head{
+    text-align: center;
+    width: 100%;
+}
+.cont{
+    padding-top: 100px;
+    display: flex;
+    background-color: rgb(236 246 253);
+    padding-bottom: 30px;
+}
+.cont button{
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+    padding: 15px;
+}
+.cont button a{
+    text-decoration: none;
+    color: white;
+}
+.info h1{
+    text-align: center;
+    text-decoration: double underline;
+}
+.prim{
+    display: flex;
+}
+.my h1{
+    text-align: center;
+    text-decoration: double underline;
+}
+.skills1{
+    display: flex;
+}
+.skills1 h2{
+    font-size: 40px;
+}
+.hon1{
+    padding-left: 90px;
+}
+.html{
+    display: flex;
+    margin: 30px;
+}
+.javascript{
+    display: flex;
+    margin: 30px;
+}
+.service{
+    display: flex;
+    padding: 10px;
+    height: 50vh;
+}
+.webdes{
+    background-color: yellow;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+.webdev{
+    background-color: yellow;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+.mobdev{
+    background-color: yellow;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+.serv h1{
+    text-align: center;
+    text-decoration: double underline;
+}
+.hon2{
+    padding-left: 90px;
+}
+.hon2 .python {
+    display: flex;
+    margin: 30px;
+}
+.css{
+    display: flex;
+    margin: 30px;
+}
+.exp{
+    display: flex;
+}
+.but{
+    padding-left: 350px;
+}
+.but a{
+    text-decoration: none;
+    font-weight: bolder;
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+}
+.name{
+    font-size: 100px;
+}
+.hello{
+    font-size: 40px;
+}
+.role{
+    font-size: 55px;
+    color: blue;
+}
+.loc{
+    font-size: 30px;
+}
+.cont2{
+    padding-left: 70px;
+}
+.prim p {
+    padding-left: 30px;
+}
+.contact{
+    background-color: skyblue;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.contact h1{
+    text-decoration: double underline;
+    text-align: center;
+}
+.contact h2{
+    text-align: center;
+    font-size: 30px;
+}
+.contact p{
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.contact .btn{
+    padding-left: 650px;
+}
+.contact button{
+    text-align: center;
+    border: none;
+    background-color: blue;
+    padding: 15px;
+}
+.contact .btn a{
+    text-decoration: none;
+    font-weight: bolder;
+    padding: 20px;
+    color: white;
+}
+.empty{
+    padding-top: 200px;
+}
+.my{
+    background-color: rgb(236 246 253);
+    padding-bottom: 30px;
+    padding-top: 50px;
+}
+.my .skill{
+    display: flex;
+}
+.exp .no{
+    font-size: 120px;
+    font-family: sans-serif;
+}
+.exp p{
+    font-size: 25px;
+    padding-top: 15px;
+}
+.html1{
+    font-size: 20px;
+    color: blue;
+}
+.html p{
+    font-size: 50px;
+    color: blue;
+    font-family: sans-serif;
+}
+.css p{
+    font-size: 50px;
+    color: blue;
+    font-family: sans-serif;
+}
+.javascript p{
+    font-size: 50px;
+    color: blue;
+    font-family: sans-serif;
+}
+.python p{
+    font-size: 50px;
+    color: blue;
+    font-family: sans-serif;
+}
+.java {
+    font-size: 20px;
+    color: blue;
+}
+.snake{
+    font-size: 20px;
+    color: blue;
+}
+.css1{
+    font-size: 20px;
+    color: blue;
+}
+.but button{
+    background-color: blue;
+    border: none;
+    padding: 20px;
+}
